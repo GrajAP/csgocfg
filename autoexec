@@ -83,12 +83,12 @@ net_graphheight                 "64"      // Pozycja net graph.
 
 cl_hud_color                    "8"       // Zmienia kolor hudu.
 cl_hud_background_alpha         "1"     // Ustala przeźroczystość tła hudu.
-hud_scaling                     "0.58"    // Skala hudu.
+hud_scaling                     "0.7"    // Skala hudu.
 hud_showtargetid                "1"       // Wyświetlanie nicku przeciwnika na którego namierzyamy.
 cl_buywheel_nomousecentering    "1"       // Wyłączenie centrowania kursora w menu zakupów. *
 hud_playercount_pos              "0"       // Miejsce wyświetlania żywych graczy w HUD. 0 - góra, 1 - dół.
 cl_hud_playercount_showcount    "0"       // Sposób wyświetlania żywych graczy HUD. 0 - wyświetlanie avatarów, 1 - wyświetlanie tylko liczby żywych graczy.
-
+net_graphproportionalfont "1"
 //⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃
 // USTAWIENIA RADARU
 //⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃
